@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/subscriptions/27e0932d-3f8b-407f-85a5-b62db8fd2ab2/resourceGroups/Learn-e27d8cb5-88d2-4aeb-b76d-12ced19de404",
+    "location": "westus2",
+    "managedBy": null,
+    "name": "Learn-e27d8cb5-88d2-4aeb-b76d-12ced19de404",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": {
+      "x-created-by": "freelearning",
+      "x-created-for": "baf6f434-2498-408d-a5f1-6d47d83e15ce",
+      "x-module-id": "learn.control-azure-services-with-cli"
+    },
+    "type": null
+  }
+]
